@@ -2,7 +2,7 @@
   "study_name": "endangered_asia_disaster_analysis",
   "data_dir": "data",
   "results_dir": "results",
-  "notebook_generated_on": "2025-11-06T06:48:54.186057Z",
+  "notebook_generated_on": "2025-11-09T10:16:17.104639Z",
   "grid_resolution_deg": 0.1,
   "region_bbox": [
     60.0,
@@ -33,9 +33,9 @@
     "cyclone",
     "earthquake"
   ],
-  "gbif_user": "advaithmagic",
-  "gbif_password": "gbifADA*1843",
-  "gbif_email": "advaithsanilkumar@gmail.com",
+  "gbif_user": null,
+  "gbif_password": null,
+  "gbif_email": null,
   "iucn_token": null,
   "event_window": [
     -3,
