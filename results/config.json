@@ -2,14 +2,15 @@
   "study_name": "endangered_asia_disaster_analysis",
   "data_dir": "data",
   "results_dir": "results",
-  "notebook_generated_on": "2025-11-06T06:48:54.186057Z",
-  "grid_resolution_deg": 0.1,
+  "notebook_generated_on": "2025-11-17T12:59:42.976729Z",
+  "grid_resolution_deg": 1.0,
   "region_bbox": [
     60.0,
     -10.0,
     150.0,
     55.0
   ],
+  "use_range_filtering": true,
   "time_unit": "year",
   "time_range": [
     2000,
@@ -36,13 +37,15 @@
   "gbif_user": "advaithmagic",
   "gbif_password": "gbifADA*1843",
   "gbif_email": "advaithsanilkumar@gmail.com",
-  "iucn_token": null,
+  "iucn_token": "None",
   "event_window": [
     -3,
     5
   ],
   "clustering_var": "grid_id",
   "did_estimator": "twfe",
+  "ml_model": "random_forest",
+  "n_folds": 5,
   "save_intermediate": true,
   "figure_format": "png",
   "figure_dpi": 300
