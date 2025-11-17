@@ -2680,17 +2680,11 @@ This analysis demonstrates:
 
 ### Data Sources
 
-- **GBIF.org** (2024). GBIF Occurrence Download. https://doi.org/10.15468/dl.xxxxx
+- **GBIF.org** (2024). GBIF Occurrence Download. https://www.gbif.org
 
 - **EM-DAT**: The International Disaster Database. Centre for Research on the Epidemiology of Disasters (CRED). https://www.emdat.be/
 
 - **IUCN** (2024). The IUCN Red List of Threatened Species. Version 2024-1. https://www.iucnredlist.org
 
----
 
-**Document Author**: GitHub Copilot (Claude Sonnet 4.5)  
-**Analysis Date**: November 18, 2025  
-**Pipeline Version**: implementation-v2  
-**Total Pages**: ~50  
-**Total Words**: ~15,000
 
